@@ -43,5 +43,5 @@ if __name__ == "__main__":
     N = input_number()
 
     getcontext().prec = N
-    my_pi = chudnovsky(N / 14)
+    my_pi = chudnovsky(N)
     print("Pi = {}".format(str(my_pi)))
