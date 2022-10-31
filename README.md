@@ -6,7 +6,7 @@ This repository was created for my educational purposes. In this README file I w
 
 [Fizz Buzz](https://github.com/mufteevir/learnpython/blob/master/Text/fizz_buzz.py) - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”
 
-[Converter](https://github.com/mufteevir/learnpython/tree/master/Numbers/Converter%20to%20US%20units%20ipywidgets) - converting from metric to imperial and vice versa(length, weight, temperature), visualisation by ipywidgets
+[Converter](https://github.com/mufteevir/learnpython/tree/master/Converter%20to%20US%20units%20ipywidgets) - converting from metric to imperial and vice versa(length, weight, temperature), visualisation by ipywidgets
 
 [Next Prime Number](https://github.com/mufteevir/learnpython/blob/master/Numbers/next_prime_number.py) - ask for next number is prime or not. Optimized - looking only for dividers not more sqrt of number and only in list of prime numbers
 
