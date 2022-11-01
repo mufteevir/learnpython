@@ -15,3 +15,5 @@ This repository was created for my educational purposes. In this README file I w
 [Find e to the Nth Digit](https://github.com/mufteevir/learnpython/blob/master/Numbers/Find%20e%20to%20the%20Nth%20Digit.py) - Get the value of e to n number of decimal places
 
 [Prime Factorization](https://github.com/mufteevir/learnpython/blob/master/Numbers/Prime%20Factorization.py) - Python program to find prime factors in list
+
+[Find Cost of Tile to Cover W x H Floor](https://github.com/mufteevir/learnpython/blob/master/Numbers/Find%20Cost%20of%20Tile%20to%20Cover%20W%20x%20H%20Floor.py) - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user
