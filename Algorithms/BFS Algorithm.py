@@ -1,3 +1,6 @@
+"""
+breadth-first search
+"""
 from collections import deque
 
 graph = {}
