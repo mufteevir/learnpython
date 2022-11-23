@@ -12,7 +12,7 @@ def selection_sort(arr):
     new_arr = []
     for i in range(len(arr)):
         smallest = find_smallest(arr)
-        new_arr.append(arr.pop(smallest))
+        new_arr.append(arr.pop(smallest))#find smallest element and add it to new sorted array
     return new_arr
 
 print(selection_sort([5,3,6,2,10]))
