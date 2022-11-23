@@ -1,14 +1,14 @@
 def binary_search(list, item):
     low = 0
-    high = len(list) - 1
-    while low <= high:
-        mid = (low + high) // 2
+    high = len(list) - 1 #low and high - limits for searching
+    while low <= high: #while list is more than 1
+        mid = (low + high) // 2 #check middle element
         guess = list[mid]
-        if guess == item:
+        if guess == item: #value found
             return mid
-        elif guess > item:
+        elif guess > item:#guess>value=>change high limit
             high = mid - 1
-        else:
+        else:             #guess<value=>change low limit
             low = mid + 1
     return None
 
