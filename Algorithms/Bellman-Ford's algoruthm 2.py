@@ -1,5 +1,6 @@
 # Python program for Bellman-Ford's single source
 # shortest path algorithm.
+#for negarive value
 
 from collections import defaultdict
 
