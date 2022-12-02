@@ -10,5 +10,6 @@ while n != 1:
     else:
         n = n * 3 + 1
     i += 1
+    print(int(n))
 
 print(f'number of steps {i}')
